@@ -57,6 +57,34 @@ This is followed by companies in the 11–50 and 1001–5000 employee ranges, sh
 A smaller portion of startups has scaled to over 10,000 employees, reflecting mature organizations.
 This dashboard provides valuable insights for investors, policymakers, and entrepreneurs to identify growth hotspots, emerging industries, and workforce trends within India's vibrant startup ecosystem.
 
+![3](https://github.com/user-attachments/assets/f91a67c8-05ff-4c7c-8e29-44e1eea20498)
+
+This dashboard provides a comprehensive analysis of startup funding trends, focusing on the relationship between the number of investors, industries, and funding amounts over the years.
+
+Investor Impact: Correlation between the number of investors and the amount raised.
+Industry Funding Distribution: Funding distribution across different industries.
+Funding Growth Over Time: Historical growth in investor participation and funding rounds.
+
+## Amount Raised by Number of Investors:
+Startups with 30–40 investors have raised the highest funding amounts, showcasing a strong correlation between investor count and capital raised.
+Fewer investors (1–10) contributed to comparatively lower funding, indicating that larger investor networks boost capital inflow.
+
+## Amount Raised by Industries:
+Information Technology (Apps) leads with the highest total funding, followed by E-commerce, Consumer Services, and Financial Services.
+Emerging industries like Clean Energy, E-Learning, and Healthcare are steadily gaining investor interest.
+
+## Investor Growth Over the Years:
+The year-wise growth trend shows a steady rise in the number of investors from 2012 to 2022, with a notable surge post-2015.
+This reflects growing confidence in the startup ecosystem, driven by favorable policies and market potential.
+
+## Funding Rounds vs. Funding Amount:
+Startups raising between $5bn to $10bn have the highest number of funding rounds, indicating aggressive scaling.
+Beyond $20bn, the frequency of funding rounds decreases, possibly due to established startups requiring fewer but larger funding rounds.
+
+## Insights:
+The funding landscape shows that startups with larger investor networks and operating in industries like Information Technology and E-commerce dominate funding inflows.
+A steady increase in investor participation over the years highlights the expanding startup ecosystem, with a shift toward strategic and high-value funding rounds.
+
 
 
 
