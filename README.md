@@ -85,6 +85,22 @@ Beyond $20bn, the frequency of funding rounds decreases, possibly due to establi
 The funding landscape shows that startups with larger investor networks and operating in industries like Information Technology and E-commerce dominate funding inflows.
 A steady increase in investor participation over the years highlights the expanding startup ecosystem, with a shift toward strategic and high-value funding rounds.
 
+![4](https://github.com/user-attachments/assets/07a1ad56-f9f5-4172-afae-d4d316730ff0)
+
+## Interactive Question Panel:
+Users can input questions about the data or select predefined queries from the suggested options. This feature ensures that both novice users and advanced analysts can derive insights effortlessly.
+
+## Suggested questions include:
+Top cities by unicorns.
+Growth of startups by city.
+Number of unicorns by city.
+Amount of funding raised by city.
+Investor ratio by city.
+Growth metrics by company.
+
+## Predefined Suggestions for Exploration:
+The highlighted query options provide quick access to common analytical views, allowing users to deep-dive into specific topics without typing custom queries.
+This approach enhances usability and ensures a smoother experience when navigating the data.
 
 
 
