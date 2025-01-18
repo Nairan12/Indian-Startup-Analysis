@@ -1,14 +1,15 @@
 # Indian-Startup-Analysis
 ![1](https://github.com/user-attachments/assets/deb1a22b-435f-400c-9cd7-a521f3ffbdaa)
+
 This dashboard provides a comprehensive analysis of the Indian startup ecosystem, highlighting key performance indicators related to funding, investor engagement, and market growth.
 
+## KPIs Tracked:
 Total Amount Raised: $94 billion
 Total Number of Investors: 37
 Investor Ratio: 8.11
 Total Unicorns: 1
 Total Startups Tracked: 300
 
-## Detailed Insights
 ## Startup Growth Over the Years:
 The Count of Companies by Year chart shows steady growth in startup formation.
 A significant surge in new startups is evident around the mid-2010s, with the peak surpassing 60 companies in a single year.
