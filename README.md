@@ -34,8 +34,6 @@ Insights like these can drive data-driven decisions for stakeholders and investo
 
 ![2](https://github.com/user-attachments/assets/a1a17f88-ce00-404f-93b8-d97bf3764ea8)
 
-This dashboard presents a detailed analysis of the Indian startup ecosystem, focusing on the geographical distribution, industry segmentation, and workforce size across various startups.
-
 ## KPIs Tracked:
 City-Wise Insights: Count of startups, average funding amount, and company distribution by city.
 Industry Breakdown: Distribution of startups across diverse industries.
@@ -58,8 +56,6 @@ A smaller portion of startups has scaled to over 10,000 employees, reflecting ma
 This dashboard provides valuable insights for investors, policymakers, and entrepreneurs to identify growth hotspots, emerging industries, and workforce trends within India's vibrant startup ecosystem.
 
 ![3](https://github.com/user-attachments/assets/f91a67c8-05ff-4c7c-8e29-44e1eea20498)
-
-This dashboard provides a comprehensive analysis of startup funding trends, focusing on the relationship between the number of investors, industries, and funding amounts over the years.
 
 Investor Impact: Correlation between the number of investors and the amount raised.
 Industry Funding Distribution: Funding distribution across different industries.
