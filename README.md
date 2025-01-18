@@ -32,8 +32,30 @@ The Indian startup landscape has demonstrated remarkable growth, with notable fu
 Although only one unicorn has emerged, the consistent flow of investments and the growing number of startups suggest a thriving ecosystem. With strategic scaling and sustained funding, the sector is well-positioned for continued expansion.
 Insights like these can drive data-driven decisions for stakeholders and investors, making this dashboard a valuable tool for monitoring the evolution of Indian startups.
 
+![2](https://github.com/user-attachments/assets/a1a17f88-ce00-404f-93b8-d97bf3764ea8)
 
+This dashboard presents a detailed analysis of the Indian startup ecosystem, focusing on the geographical distribution, industry segmentation, and workforce size across various startups.
 
+## KPIs Tracked:
+City-Wise Insights: Count of startups, average funding amount, and company distribution by city.
+Industry Breakdown: Distribution of startups across diverse industries.
+Employee Distribution: Classification of companies based on the number of employees.
+
+## Geographical Distribution of Startups:
+The interactive map visualization highlights startup concentrations in major Indian cities.
+Larger and brighter markers indicate higher startup density and greater funding amounts.
+The ecosystem is primarily clustered around metro cities like Bengaluru, Mumbai, and Delhi NCR.
+
+## Industry-Wise Company Count:
+The industry bar chart shows that E-Learning leads with the highest number of startups, followed by Financial Services, B2B, and E-commerce industries.
+Other industries like Advertising, Agriculture, Analytics, and FinTech show emerging presence with fewer startups.
+Company Size by Number of Employees
+
+## Insights:
+Most startups fall within the 101–250 employee range, indicating a strong presence of mid-sized companies.
+This is followed by companies in the 11–50 and 1001–5000 employee ranges, showcasing a mix of early-stage and scaling startups.
+A smaller portion of startups has scaled to over 10,000 employees, reflecting mature organizations.
+This dashboard provides valuable insights for investors, policymakers, and entrepreneurs to identify growth hotspots, emerging industries, and workforce trends within India's vibrant startup ecosystem.
 
 
 
