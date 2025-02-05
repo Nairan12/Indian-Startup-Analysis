@@ -1,4 +1,4 @@
-# Indian-Startup-Analysis
+# Indian Startup Analysis
 ![1](https://github.com/user-attachments/assets/deb1a22b-435f-400c-9cd7-a521f3ffbdaa)
 
 This dashboard provides a comprehensive analysis of the Indian startup ecosystem, highlighting key performance indicators related to funding, investor engagement, and market growth.
